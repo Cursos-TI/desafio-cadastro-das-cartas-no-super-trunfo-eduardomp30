@@ -63,7 +63,7 @@ scanf("%f", &pib2);
 printf("Número de Pontos Turísticos:\n");
 scanf("%d", &numero_de_pontos_turisticos2);
 
-printf("Carta 01!\n");
+printf("\nCarta 01!\n");
 printf("Estado: %c\nCódigo: %s\nNome da Cidade: %s\n", estado1, codigo1, nome_da_cidade1);
 printf("População: %d\nÁrea: %.3f\nPIB: %.3f\nNúmero de Pontos: %d\n", populacao1, km1, pib1, numero_de_pontos_turisticos1);
 
